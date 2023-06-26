@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100"/>   
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hande+Çavuş;+Welcome+to+My+Profile!;I+have+3+years%2B+experience+as+a+SDET...)](https://git.io/typing-svg)
 
  [Email Me 📧](mailto:handeecavus@gmail.com) 
             
             
- <img align="right" alt="Coding" width="400" src="">
+ <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 </div >
             - 👨‍💻 I am a hardworking Software Test Automation Engineer in Test from Turkey.<br/>
 				- - 👨‍💻 Passionate and solution-oriented QA Engineer with 3+ years of experience, seeking to deliver top-quality work with detailed and neat test cases and test scenarios while expanding knowledge in Agile projects. Experienced in a wide variety of testing activities including but not limited to Frontend Testing, API Testing, Backend Testing, Smoke Test, Regression Test, System Integration Test, and Black and Grey Box Testing, at all test levels. A flexible team player, self-motivated bug hunter, and creative thinker with outstanding communication skills.
