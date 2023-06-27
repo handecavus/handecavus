@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#query=programmer%20girl&position=9&from_view=keyword&track=ais" width="100"/>   
+  <img src="" width="100"/>   
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hande+Çavuş;+Welcome+to+My+Profile!;I+have+3+years%2B+experience+as+a+SDET...)](https://git.io/typing-svg)
 
