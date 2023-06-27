@@ -6,7 +6,7 @@
  [Email Me 📧](mailto:handeecavus@gmail.com) 
             
             
- <img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif](https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#query=programmer%20girl&position=9&from_view=keyword&track=ais)">
+ <img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/freelance-remote-workers-flat-composition-with-domestic-scenery-woman-working-home-with-laptop_15075897.htm#query=programmer%20girl&position=23&from_view=keyword&track=ais">
 </div >
             - 👨‍💻 I am a hardworking Software Test Automation Engineer in Test from Turkey.<br/>
 				- - 👨‍💻 Passionate and solution-oriented QA Engineer with 3+ years of experience, seeking to deliver top-quality work with detailed and neat test cases and test scenarios while expanding knowledge in Agile projects. Experienced in a wide variety of testing activities including but not limited to Frontend Testing, API Testing, Backend Testing, Smoke Test, Regression Test, System Integration Test, and Black and Grey Box Testing, at all test levels. A flexible team player, self-motivated bug hunter, and creative thinker with outstanding communication skills.
